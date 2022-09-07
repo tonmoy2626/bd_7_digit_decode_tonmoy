@@ -321,7 +321,7 @@ def action():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;96m💖━━━━━━━━━━━━💘💘💘(MAFIA-KILLER-Talha)💘💘💘━━━━━━━━━━━💖" 
+	print "\033[1;96m💖━━━━━━━━━━━━💘💘💘(MAFIA-KILLER-Tonmoy)💘💘💘━━━━━━━━━━━💖" 
 	print '[✓] Process Has Been Completed ....'
 	print '[✓] Total OK/CP : '+str(len(successfull))+'/'+str(len(checkpoint))
 	print('[✓] CP File Has Been Saved : save/checkpoint.txt')
